@@ -1,0 +1,31 @@
+Class Links
+
+Whitepapers:
+    - REST:    # rest is an ARCHITECTURE that can be serviced by any protocol you desire!
+      https://roy.gbiv.com/pubs/dissertation/rest_arch_style.htm
+    - URI:    # format for describing an API endpoint
+    https://tools.ietf.org/html/rfc3986
+    - HTTP Protocol:   # the most popular protocol on the planet for servicing APIs
+    https://tools.ietf.org/html/rfc7231 
+
+Documentation:
+    - Kubernetes docs:
+      https://kubernetes.io/docs/home/
+      
+    - kubectl commands:
+      https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
+      
+    - Virtual Box Hypervisor
+      https://www.virtualbox.org/
+    
+    - Helm Charts:
+      https://helm.sh/docs/topics/charts/
+
+Additional Resources:
+    - Alta3 Research Posters:
+      https://alta3.com/posters
+      
+    - Alta3 Research YouTube:
+      https://www.youtube.com/user/Alta3Research/videos
+      
+    
